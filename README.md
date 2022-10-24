@@ -5,7 +5,7 @@
 
 
 
-![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitordeAssisFelipe&show_icons=true&theme=dark)
+![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitordeAssisFelipe&show_icons=true&theme=dracula)
 
 
 ## Tecnologias que eu uso  
