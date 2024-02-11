@@ -6,7 +6,7 @@
 
 
 ![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitordeAssisFelipe&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitordeAssisFelipe&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitordeAssisFelipe&size_weight=0.5&count_weight=0.5 icons=true&theme=dracula)
 
 ## Tecnologias que eu uso  
 
