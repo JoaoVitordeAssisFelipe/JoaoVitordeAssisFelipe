@@ -1,7 +1,7 @@
 ### Olá! eu sou o João Vitor 👋
-💼 It Support 
-📓 Computer Science - 2/4 years
-🎓 Systems Development Technician - Graduated
+💼 It Support </br>
+📓 Computer Science - 2/4 years</br>
+🎓 Systems Development Technician - Graduated</br>
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://jaovitordeassis@gmail.com/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-felipe-929820198/)
