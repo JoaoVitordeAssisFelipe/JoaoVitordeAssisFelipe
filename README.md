@@ -3,10 +3,6 @@
 📓 Computer Science - 3/4 years</br>
 🎓 Systems Development Technician - Graduated</br>
 
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://jaovitordeassis@gmail.com/)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-felipe-929820198/)
-
-
 [![João Vitor GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoaoVitordeAssisFelipe&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitordeAssisFelipe&layout=compact&langs_count=16&theme=dark"/>
 
