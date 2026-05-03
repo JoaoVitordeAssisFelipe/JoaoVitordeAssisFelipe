@@ -1,6 +1,6 @@
 # Olá, eu sou o João Vitor! 👋
 
-### 👨‍💻 IT Support N2 | 🎓 Estudante de Ciência da Computação
+### 👨‍💻 Analista de Sistema | 🎓 Estudante de Ciência da Computação
 
 Sou um apaixonado por tecnologia, atualmente cursando o 7º semestre de **Ciência da Computação**. Com formação técnica em **Desenvolvimento de Sistemas**, busco unir minha experiência prática em suporte especializado com o desenvolvimento de software robusto e eficiente.
 
@@ -8,7 +8,7 @@ Sou um apaixonado por tecnologia, atualmente cursando o 7º semestre de **Ciênc
 
 ### 🚀 Sobre Mim
 
-- 💼 Atualmente atuando como **IT Support N2**, garantindo a estabilidade e eficiência de ambientes tecnológicos.
+- 💼 Atualmente atuando como **Analista de Sistema**, garantindo a estabilidade e eficiência de ambientes tecnológicos.
 - 🎓 Focado em aprofundar conhecimentos em **Engenharia de Software** e **Arquitetura de Sistemas**.
 - 🌱 Estudando constantemente o ecossistema **Java/Spring** e análise de dados com **Python**.
 - 🥅 Objetivo: Migrar para o desenvolvimento Full Stack/Backend.
