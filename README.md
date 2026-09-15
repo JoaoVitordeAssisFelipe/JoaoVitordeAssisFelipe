@@ -1,8 +1,8 @@
 # Olá, eu sou o João Vitor! 👋
 
-### 👨‍💻 Analista de Sistema | 🎓 Estudante de Ciência da Computação
+### 👨‍💻 Analista de Sistema | 🎓 Formado em Ciência da Computação
 
-Sou um apaixonado por tecnologia, atualmente cursando o 7º semestre de **Ciência da Computação**. Com formação técnica em **Desenvolvimento de Sistemas**, busco unir minha experiência prática em suporte especializado com o desenvolvimento de software robusto e eficiente.
+Sou um apaixonado por tecnologia, formado em **Ciência da Computação** e técnico em **Desenvolvimento de Sistemas**, busco unir minha experiência prática em suporte especializado com o desenvolvimento de software robusto e eficiente.
 
 ---
 
